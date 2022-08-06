@@ -14,5 +14,5 @@ You can Visit My Webpage on : https://gitansh.me/Covid-19-Track-Live/
 **Hosting:** Github.
 
 
-![Logo](https://play-lh.googleusercontent.com/Tjum_X5oZ7T62cgfCbpvIm5kW7MtehMjgI3WMapBGPXjz3bmMRPXIGMrwVysLEFMaSc=w526-h296-rw)
+![Logo](https://www.ge.com/news/sites/default/files/inline-images/GettyImages-511458702-e1503541950787.jpg)
 
