@@ -2,7 +2,7 @@
 
 Developed a Webpage to Track live Status of COVID-19 across the Globe.
 
-You can Visit My Webpage on : https://gitansh.me/Covid-19-Track-Live/
+You can Visit My Webpage on : https://gitansh.tech/Covid-19-Track-Live/
 
 
 ## Tech Stack
